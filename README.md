@@ -3,4 +3,4 @@ Some small demo scripts for SMTLIB and Z3 basics. Originally used as quick demon
 
 [1] http://www.decision-procedures.org/
 
-[2] https://goo.gl/ZTxmVx
+[2] https://goo.gl/a1W1b9
